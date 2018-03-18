@@ -1,4 +1,6 @@
 
+《Fundamentals of Deep Learning》读书笔记
+
 ## Chapter 1
 
 `Traditional computer programs` 最擅长两件事情：
